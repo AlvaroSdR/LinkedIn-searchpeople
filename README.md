@@ -19,6 +19,7 @@ Enter the job position and search position in the input fields.
 Click the "Search" button to fetch the list of companies and profiles.
 The results will be displayed in the app's interface, showing the companies with open positions and the profiles of people who match the specified job title.
 Note: Please be mindful of LinkedIn's terms of service and usage guidelines when using their API.
+Note: Please be aware that you need LinkedIn Develper API keys for the correct usage of the application.
 
 ## Contributing
 If you would like to contribute to this project, please contact in advance. Any contributions are welcome!
